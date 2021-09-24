@@ -1,0 +1,455 @@
+@media(min-width: 320px) and (max-width: 575px){
+    nav button{
+        border: none;
+    }
+    nav button i{
+        color: #fff;
+    }
+    nav ul{
+        background: #000;
+        
+    }
+    .banner .overlay .btn {
+	display: flex;
+}
+    .banner .overlay .btn a{
+	width: 48%;
+}
+    
+    .banner .overlay h3::before {
+	display: none;
+}
+    .banner .overlay h3::after {
+	display: none;
+}
+    .banner .overlay h1::before {
+        display: none;
+}
+    .banner .overlay h1::after {
+        display: none;
+}
+    .banner .overlay .btn::before {
+        display: none;
+}
+    .banner .overlay .btn::after {
+        display: none;
+}
+    
+    
+    
+    
+    #banner_part .banner .container {
+	text-align: center;
+}
+    .banner .overlay p {
+	margin: 0 auto !important;
+}
+    
+    
+    #about {
+	margin-top: 30px;
+}
+   #about .title {
+	margin-top: 30px;
+} 
+    #gallery {
+	margin-top: 30px;
+        margin-bottom: 0px;
+}
+    #gallery .overlay .row .img {
+	 margin-right: 0px; 
+}
+    
+    #team {
+	margin-top: 30px;
+}
+    
+    #team .team-item:hover {
+	 margin-top: 0px; 
+}
+    
+    #team .team-item .img .overlay {
+	display: none;
+}
+    
+    #member {
+	margin-top: 30px;
+}
+    #member .row .membership {
+	margin-bottom: 30px;
+}
+    #counter-part {
+	margin-top: 30px;
+}
+    
+    
+    
+    
+    
+    #counter-part .counter-banner .overlay h2 {
+	margin-bottom: 30px;
+}
+    
+    #rutine-part {
+	display: none;
+}
+    
+    footer {
+	margin-top: 30px;
+}
+    
+    .footer-title {
+	text-align: center;
+        margin: 30px 0px;
+}
+    
+    footer .overlay .item2 .details i {
+	display: none;
+}
+    
+    footer .overlay .item2 .details {
+	padding: 0;
+	text-align: center;
+}
+    footer .overlay .item4 .contact i {
+        display: none
+}
+    footer .overlay .item4 .contact {
+	padding-left: 0;
+}
+    
+    footer .overlay .item4 .contact p {
+	width: 100%;
+	text-align: center;
+}
+    
+    .item4 ul {
+	display: flex;
+	justify-content: center;
+}
+    
+    
+    
+    footer .copyright {
+        border: none;
+}
+    
+    
+    
+    
+    
+}
+
+
+@media(min-width: 576px) and (max-width: 767px){
+    nav button{
+        border: none;
+    }
+    nav button i{
+        color: #fff;
+    }
+    nav ul{
+        background: #000;
+        
+    }
+    
+    
+    .banner .overlay h3::before {
+	display: none;
+}
+    .banner .overlay h3::after {
+	display: none;
+}
+    .banner .overlay h1::before {
+        display: none;
+}
+    .banner .overlay h1::after {
+        display: none;
+}
+    .banner .overlay .btn::before {
+        display: none;
+}
+    .banner .overlay .btn::after {
+        display: none;
+}
+    
+    
+    
+    
+    #banner_part .banner .container {
+	text-align: center;
+}
+    .banner .overlay p {
+	margin: 0 auto !important;
+}
+    
+    
+    #about {
+	margin-top: 30px;
+}
+   #about .title {
+	margin-top: 30px;
+} 
+    #gallery {
+	margin-top: 30px;
+        margin-bottom: 0px;
+}
+    #gallery .overlay .row .img {
+	 margin-right: 0px;
+        margin-bottom: 30px;
+}
+    #gallery .overlay .row .last-gallery {
+        display: none;
+}
+    
+    
+    
+    
+    
+    
+    
+    #team {
+	margin-top: 30px;
+        margin-bottom: 0px;
+}
+    
+    
+    
+    #member {
+	margin-top: 30px;
+}
+    #member .row .membership {
+	margin-bottom: 30px;
+}
+    .testi-slider .testi-item .img-part .img {
+	width: 30%;
+}
+    .testi-slider .testi-item .img-part .text {
+	width: 60%;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    #counter-part {
+	margin-top: 30px;
+}
+    
+    
+    
+    
+    
+    #counter-part .counter-banner .overlay h2 {
+	margin-bottom: 50px;
+}
+    
+    #rutine-part {
+	display: none;
+}
+    
+    footer {
+	margin-top: 30px;
+}
+    
+    .footer-title {
+	text-align: center;
+        margin: 30px 0px;
+}
+      
+    footer .overlay .item2 .details {
+	padding: 0;
+	text-align: center;
+}
+       footer .overlay .item2 .details i {
+           display: none
+}
+    
+    
+    
+    footer .overlay .item1 .main {
+	font-size: 14px;
+	line-height: 35px;
+}
+    
+    footer .overlay .item3 ul li a img {
+	width: 65px;
+	height: 55px;
+}
+    footer .overlay .item3 ul li:last-child {
+	display: none;
+}
+    
+    
+    
+    
+    
+    .item4 ul {
+	display: flex;
+	justify-content: center;
+}
+    
+  
+    footer .copyright {
+	margin-top: 20px;
+}
+    
+    
+    
+    
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+    nav button{
+        border: none;
+    }
+    nav button i{
+        color: #fff;
+    }
+    nav ul{
+        background: #000;
+        
+    }
+    
+    
+    .banner .overlay h3::before {
+	display: none;
+}
+    .banner .overlay h3::after {
+	display: none;
+}
+    .banner .overlay h1::before {
+        display: none;
+}
+    .banner .overlay h1::after {
+        display: none;
+}
+    .banner .overlay .btn::before {
+        display: none;
+}
+    .banner .overlay .btn::after {
+        display: none;
+}
+    
+    
+    
+    
+    #banner_part .banner .container {
+	text-align: center;
+}
+    .banner .overlay p {
+	margin: 0 auto !important;
+}
+    
+    
+    #about {
+	margin-top: 30px;
+}
+   #about .title {
+	margin-top: 30px;
+} 
+    #gallery {
+	margin-top: 30px;
+        margin-bottom: 0px;
+}
+    #gallery .overlay .row .img {
+	 margin-right: 0px;
+        margin-bottom: 30px;
+}
+    #gallery .overlay .row .last-gallery {
+        
+}
+    
+    
+    
+    
+    
+    
+    
+    #team {
+	margin-top: 30px;
+        margin-bottom: 0px;
+}
+    
+    
+    
+    #member {
+	margin-top: 30px;
+}
+    #member .row .membership {
+	margin-bottom: 30px;
+}
+    .testi-slider .testi-item .img-part .img {
+	width: 30%;
+}
+    .testi-slider .testi-item .img-part .text {
+	width: 60%;
+}
+    
+    
+    
+    
+    
+ #counter-part {
+	margin-top: 30px;
+}
+    
+    #rutine-part {
+	display: none;
+}
+    
+    footer {
+	margin-top: 30px;
+}
+    
+    .footer-title {
+	text-align: center;
+        margin: 30px 0px;
+}
+      
+    footer .overlay .item2 .details {
+	padding: 0;
+	text-align: center;
+}
+       footer .overlay .item2 .details i {
+           display: none
+}
+    
+    footer .overlay .item2 .details p {
+	line-height: 28px;
+}
+    
+    footer .overlay .item1 .main {
+	font-size: 14px;
+	line-height: 35px;
+}
+    
+    footer .overlay .item3 ul li a img {
+	width: 65px;
+	height: 55px;
+}
+    
+    footer .overlay .item4 .contact p {
+	width: 100%;
+}
+    
+    
+    .item4 ul {
+	display: flex;
+	justify-content: center;
+}
+    
+  
+    footer .copyright {
+	margin-top: 20px;
+}
+    
+    
+    
+    
+}
